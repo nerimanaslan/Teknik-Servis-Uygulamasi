@@ -1,0 +1,76 @@
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.config
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.pdb
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Data.Desktop.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Data.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Drawing.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Utils.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraBars.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraEditors.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Printing.v24.1.Core.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Sparkline.v24.1.Core.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Pdf.v24.1.Core.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Pdf.v24.1.Drawing.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Data.Desktop.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Data.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Drawing.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Utils.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraBars.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraEditors.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Printing.v24.1.Core.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Sparkline.v24.1.Core.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Pdf.v24.1.Core.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Pdf.v24.1.Drawing.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.AssemblyReference.cache
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.AnaMenü.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Properties.Resources.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.GenerateResource.cache
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe.licenses
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.csproj.CoreCompileInputs.cache
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik S.5D73DC19.Up2Date
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.pdb
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\EntityFramework.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\EntityFramework.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmCariler.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraGrid.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraLayout.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraPrinting.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.RichEdit.v24.1.Core.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraTreeList.v24.1.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Office.v24.1.Core.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraGrid.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraLayout.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraPrinting.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.RichEdit.v24.1.Core.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.XtraTreeList.v24.1.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\DevExpress.Office.v24.1.Core.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmDepartman.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmBakiye.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmPersonel.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmKategori.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmUrun.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.SatisYap.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmKurlar.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmRehper.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmAnasayfa.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.exe.manifest
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Teknik Servis.application
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.exe.manifest
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik Servis.application
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\ControlzEx.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Fluent.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\System.Memory.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\System.Buffers.dll
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\ControlzEx.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Fluent.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmLogin.resources
+C:\Users\mevlu\source\repos\Teknik Servis\Teknik Servis\obj\Debug\Teknik_Servis.Formlar.FrmNotlar.resources

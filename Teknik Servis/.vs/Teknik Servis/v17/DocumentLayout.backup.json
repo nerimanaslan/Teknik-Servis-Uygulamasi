@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmdepartman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmnotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\anamen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\anamen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\anamen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\anamen\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmanasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|c:\\users\\mevlu\\source\\repos\\teknik servis\\teknik servis\\formlar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\teknik servis\\formlar\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\teknik servis\\formlar\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5198B951-6600-4FE0-B071-82D56116B124}|Teknik Servis\\Teknik Servis.csproj|solutionrelative:teknik servis\\formlar\\frmpersonel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Teknik Servis||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDepartman.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmDepartman.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmDepartman.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmDepartman.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmDepartman.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:09:20.127Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmNotlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmNotlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmNotlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:09:16.405Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmNotlar.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmNotlar.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:08:50.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaMen\u00FC.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\AnaMen\u00FC.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\AnaMen\u00FC.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\AnaMen\u00FC.cs",
+              "RelativeToolTip": "Teknik Servis\\AnaMen\u00FC.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAjwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:05:44.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaMen\u00FC.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\AnaMen\u00FC.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\AnaMen\u00FC.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\AnaMen\u00FC.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik Servis\\AnaMen\u00FC.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T16:05:42.351Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmAnasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAEwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:59:37.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmAnasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmAnasayfa.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmAnasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmAnasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:59:23.451Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Program.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Program.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Program.cs",
+              "RelativeToolTip": "Teknik Servis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:56:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmLogin.cs",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmLogin.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:52:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmLogin.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmLogin.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmLogin.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:47:03.647Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teknik Servis",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Teknik Servis.csproj",
+              "RelativeDocumentMoniker": "Teknik Servis\\Teknik Servis.csproj",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Teknik Servis.csproj",
+              "RelativeToolTip": "Teknik Servis\\Teknik Servis.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-21T15:04:08.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmPersonel.cs",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:02:34.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmPersonel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "RelativeDocumentMoniker": "Teknik Servis\\Formlar\\FrmPersonel.cs",
+              "ToolTip": "C:\\Users\\mevlu\\source\\repos\\Teknik Servis\\Teknik Servis\\Formlar\\FrmPersonel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik Servis\\Formlar\\FrmPersonel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:02:31.338Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
